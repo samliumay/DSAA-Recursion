@@ -6,6 +6,9 @@
 
 ## What is included at this page and inside the codes? 
 * Explanation of Recursion with examples in a very basic way.
+* Bubble sort
+* Insertion sort
+* Selection sort
 
 ## What do you explain at superpeer?
 * Explaining the Recursion deeply.
@@ -14,7 +17,7 @@
 ## Run Locally
 
 ```bash
-git clone https://github.com/samliumay/DSAA-Heaps.git
+git clone https://github.com/samliumay/DSAA-Recursion.git
 cd src/main/java/Main.java
 javac ComplexityExamples.java Main.java
 java Main.java
