@@ -6,9 +6,6 @@
 
 ## What is included at this page and inside the codes? 
 * Explanation of Recursion with examples in a very basic way.
-* Bubble sort
-* Insertion sort
-* Selection sort
 
 ## What do you explain at superpeer?
 * Explaining the Recursion deeply.
